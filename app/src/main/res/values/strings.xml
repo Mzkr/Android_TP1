@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="bonjour">Bonjour tout le monde!</string>
+    <string name="action_settings">Parametre</string>
+    <string name="action_exit">Sortir</string>
+    <string name="action_exit_question">Voulez-vous vraiment quitter ?</string>
+    <string name="action_exit_titre">Quitter</string>
+</resources>
